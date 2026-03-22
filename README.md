@@ -1,4 +1,6 @@
-## Hi there 👋 I am JonDScode
+## Hi there 👋 
+
+Hello, I'm Jonnathan 
 
 <!--
 **JonDScode/JonDScode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
