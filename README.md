@@ -5,7 +5,7 @@
 ### AI Engineer · Data Scientist &nbsp;—&nbsp; GenAI & Agentes
 
 Construyo sistemas con LLMs y agentes que llegan a producción.
-Madrid, España 🇪🇸
+<img src="https://api.iconify.design/tabler/map-pin.svg?color=%236ee7f7" width="14"/> Madrid, España
 
 [![Portfolio](https://img.shields.io/badge/jonnathanospina.com-0b7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jonnathanospina.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonnathanospinam)
@@ -17,10 +17,10 @@ Madrid, España 🇪🇸
 
 ## // sobre_mí
 
-- 🤖 **GenAI en producción**: agentes conversacionales sobre Claude, RAG, tool calling y voz (Whisper + Llama vía Groq)
-- 📊 **Data Science con rigor**: del baseline honesto a la explicabilidad regulatoria (SHAP, fairness testeada)
-- ☁️ **Microsoft-certified**: Azure AI Engineer Associate (AI-102) · Azure AI Fundamentals
-- 🚀 Productos propios en marcha: **Dilofácil** (SaaS de reseñas por voz) · **Dictum** (tutor agéntico de idiomas)
+- <img src="https://api.iconify.design/tabler/robot.svg?color=%236ee7f7" width="16"/> **GenAI en producción**: agentes conversacionales sobre Claude, RAG, tool calling y voz (Whisper + Llama vía Groq)
+- <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%236ee7f7" width="16"/> **Data Science con rigor**: del baseline honesto a la explicabilidad regulatoria (SHAP, fairness testeada)
+- <img src="https://api.iconify.design/tabler/cloud.svg?color=%236ee7f7" width="16"/> **Microsoft-certified**: Azure AI Engineer Associate (AI-102) · Azure AI Fundamentals
+- <img src="https://api.iconify.design/tabler/rocket.svg?color=%236ee7f7" width="16"/> Productos propios en marcha: **Dilofácil** (SaaS de reseñas por voz) · **Dictum** (tutor agéntico de idiomas)
 
 ## // stack
 
@@ -43,7 +43,7 @@ Madrid, España 🇪🇸
 <tr>
 <td width="50%" valign="top">
 
-### ⚓ [Nautikos](https://github.com/JonDScode/nautikos)
+### <img src="https://api.iconify.design/tabler/anchor.svg?color=%236ee7f7" width="20"/> [Nautikos](https://github.com/JonDScode/nautikos)
 
 Plataforma de **inteligencia marítima** en tiempo real sobre la base open source OSIRIS: mapa WebGL con miles de entidades en vivo, riesgo país y cadena de suministro.
 
@@ -52,7 +52,7 @@ Plataforma de **inteligencia marítima** en tiempo real sobre la base open sourc
 </td>
 <td width="50%" valign="top">
 
-### 🏦 [Credit Risk Lab](https://github.com/JonDScode/credit-risk-lab)
+### <img src="https://api.iconify.design/tabler/building-bank.svg?color=%236ee7f7" width="20"/> [Credit Risk Lab](https://github.com/JonDScode/credit-risk-lab)
 
 **Scoring de crédito explicable** de punta a punta: XGBoost sobre 307k préstamos (AUC 0.78), reason codes SHAP con fairness testeada y API FastAPI + Docker.
 
@@ -63,7 +63,7 @@ Plataforma de **inteligencia marítima** en tiempo real sobre la base open sourc
 <tr>
 <td width="50%" valign="top">
 
-### ⚽ [Soccer Analytics Lab](https://github.com/JonDScode/Soccer)
+### <img src="https://api.iconify.design/tabler/ball-football.svg?color=%236ee7f7" width="20"/> [Soccer Analytics Lab](https://github.com/JonDScode/Soccer)
 
 **Ciencia de datos aplicada al fútbol**: modelos de goles esperados (xG), forecasting Dixon-Coles, redes de pases y scouting sobre event data profesional.
 
@@ -72,7 +72,7 @@ Plataforma de **inteligencia marítima** en tiempo real sobre la base open sourc
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [jonnathanospina.com](https://github.com/JonDScode/Jonnathanospina)
+### <img src="https://api.iconify.design/tabler/world.svg?color=%236ee7f7" width="20"/> [jonnathanospina.com](https://github.com/JonDScode/Jonnathanospina)
 
 Mi **portafolio**: animaciones matemáticas en Canvas (disco de Poincaré, Juego de la Vida), blog estático publicable por API y CV en PDF autogenerado con CI.
 
