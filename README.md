@@ -86,8 +86,7 @@ Mi **portafolio**: animaciones matemáticas en Canvas (disco de Poincaré, Juego
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonDScode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6ee7f7&icon_color=a78bfa&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonDScode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6ee7f7&langs_count=8)
+<img src="stats.svg" alt="GitHub stats" height="180"/>&nbsp;<img src="top-langs.svg" alt="Lenguajes más usados" height="180"/>
 
 </div>
 
