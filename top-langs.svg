@@ -2,9 +2,9 @@
   <rect x="0.5" y="0.5" width="389" height="179" rx="6" fill="#0a0a0f" stroke="#1f2937"/>
   <text x="24" y="32" fill="#6ee7f7" font-size="14" font-weight="600" font-family="'Cascadia Code', 'Courier New', monospace">// lenguajes</text>
   <clipPath id="bar"><rect x="24" y="48" width="342" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#bar)"><rect x="24.0" y="48" width="269.7" height="10" fill="#DA5B0B"/><rect x="293.7" y="48" width="33.3" height="10" fill="#3572A5"/><rect x="327.0" y="48" width="29.0" height="10" fill="#e34c26"/><rect x="356.0" y="48" width="4.4" height="10" fill="#f1e05a"/><rect x="360.4" y="48" width="3.6" height="10" fill="#563d7c"/><rect x="364.0" y="48" width="2.0" height="10" fill="#a78bfa"/></g>
+  <g clip-path="url(#bar)"><rect x="24.0" y="48" width="269.6" height="10" fill="#DA5B0B"/><rect x="293.6" y="48" width="33.2" height="10" fill="#3572A5"/><rect x="326.8" y="48" width="28.9" height="10" fill="#e34c26"/><rect x="355.8" y="48" width="4.4" height="10" fill="#f1e05a"/><rect x="360.2" y="48" width="3.6" height="10" fill="#563d7c"/><rect x="363.8" y="48" width="2.2" height="10" fill="#a78bfa"/></g>
   <circle cx="29" cy="80" r="5" fill="#DA5B0B"/>
-<text x="40" y="84" fill="#f0f0f5" font-size="12">Jupyter Notebook <tspan fill="#9ca3af">78.9%</tspan></text>
+<text x="40" y="84" fill="#f0f0f5" font-size="12">Jupyter Notebook <tspan fill="#9ca3af">78.8%</tspan></text>
 <circle cx="200" cy="80" r="5" fill="#3572A5"/>
 <text x="211" y="84" fill="#f0f0f5" font-size="12">Python <tspan fill="#9ca3af">9.7%</tspan></text>
 <circle cx="29" cy="104" r="5" fill="#e34c26"/>
